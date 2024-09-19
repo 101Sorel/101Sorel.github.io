@@ -39,10 +39,11 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
+  - title: Research Projects
+    url: /projects/
+  - title: honors
     url: /awards/
-  # - title: Hobbies
-  #   url: /hobbies/
+  
   # - title: Blogs
   #   url: /blogs/
   # - title: Teams
