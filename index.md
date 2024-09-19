@@ -25,8 +25,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Machine learning
 - Graph deep learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
 ---
 
 ## PUBLICATION
