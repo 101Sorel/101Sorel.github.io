@@ -51,19 +51,27 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## RESEARCH PROJECTS                                    
 **Road Topology Information Extraction from Crowdsourced Trajectory Data**
+
 (University-Industry Collaboration Project)  
+
 Dec. 2021 - Dec.2023
-Researcher | Advisor: Professor Peng Yue                         
-•	In collaboration with Changan Automobile Company, this project focuses on extracting road topology information from crowdsourced trajectory data.
-•	Responsible for road intersection detection, intersection range determination, and intersection topological information extraction based on trajectory data.
-•	Proposed an algorithm for precise intersection range determination based on trajectory data and an intersection lane extraction algorithm based on Graph Transformer Networks (GTN). Authored one paper and two patents.
+
+Researcher | Advisor: Professor Peng Yue   
+
+-	In collaboration with Changan Automobile Company, this project focuses on extracting road topology information from crowdsourced trajectory data.
+-	Responsible for road intersection detection, intersection range determination, and intersection topological information extraction based on trajectory data.
+-	Proposed an algorithm for precise intersection range determination based on trajectory data and an intersection lane extraction algorithm based on Graph Transformer Networks (GTN). Authored one paper and two patents.
 
 **Transportation mode recognition from cellular signaling data**
+
 (University-Industry Collaboration Project) 
+
 Jun. 2022 - Dec.2022
+
 Researcher | Advisor: Professor Peng Yue 
-•	In collaboration with Huawei Technologies Co., Ltd., this project focuses on transportation mode recognition from cellular signaling data.
-•	Responsible for transportation mode recognition based on cellular signaling data with low spatial accuracy and low sampling rate.
-•	Designed supervised transportation mode recognition algorithms based on Random Forest and unsupervised transportation mode recognition algorithms based on Gaussian Mixture Models (GMM).
+
+-	In collaboration with Huawei Technologies Co., Ltd., this project focuses on transportation mode recognition from cellular signaling data.
+-	Responsible for transportation mode recognition based on cellular signaling data with low spatial accuracy and low sampling rate.
+-	Designed supervised transportation mode recognition algorithms based on Random Forest and unsupervised transportation mode recognition algorithms based on Gaussian Mixture Models (GMM).
 
 
