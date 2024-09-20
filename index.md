@@ -6,7 +6,7 @@ layout: page
 
 <img src="chongshanwan.jpg" class="floatpic" width="600" height="480">
 
-Here is **Chongshan Wan (Lance, 万重山)**.
+Here is **Chongshan Wan (万重山)**.
 
 I am a final-year graduate student majoring in Cartography and Geographic Information Systems at the School of Remote Sensing and Information Engineering, Wuhan University. I'm advised by [Prof. Peng Yue](http://jszy.whu.edu.cn/pyue). 
 
@@ -27,5 +27,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Machine learning
 - Graph deep learning
 
+---
 
-
+## LANGUAGE & SKILLS
+ 
+- IELTS 6.5, with all bands above 6.0
+- Programming Language: Python, C++
+- Python Package: PyTorch / SciPy / NumPy / sklearn
