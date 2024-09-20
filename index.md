@@ -31,6 +31,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## LANGUAGE & SKILLS
  
-- [IELTS 6.5, with all bands above 6.0](https://101Sorel.github.io/images/IETS.jpg)
+- [IELTS 6.5, with all bands above 6.0](https://101Sorel.github.io/images/IELTS.jpg)
 - Programming Language: Python, C++
 - Python Package: PyTorch / SciPy / NumPy / sklearn
