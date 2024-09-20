@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sept. 2022 – Jun. 2024(Expected):** Wuhan University (Master of Cartography and Geography Information System, supervised by [Prof. Peng Yue](http://jszy.whu.edu.cn/pyue))
+- **Sept. 2022 – Jun. 2025(Expected):** Wuhan University (Master of Cartography and Geography Information System, supervised by [Prof. Peng Yue](http://jszy.whu.edu.cn/pyue))
 - **Sept. 2018 – Jun. 2022:** Wuhan University (Bachelor of Remote Sensing Science and Technology)
 
 ---
