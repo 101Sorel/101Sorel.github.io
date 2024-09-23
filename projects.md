@@ -20,4 +20,3 @@ Jun. 2022 - Dec. 2022<br>
 Researcher | Advisor: Professor Peng Yue
 - Collaborated with Huawei Technologies to develop transportation mode recognition algorithms.
 - Focused on recognizing transportation mode based on cellular signaling data with low spatial accuracy and low sampling rate.
-- Designed supervised transportation mode recognition algorithms using Random Forest and unsupervised algorithms using Gaussian Mixture Models (GMM).
