@@ -23,7 +23,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Trajectory mining
+- Spatial data mining
 - Machine learning
 - Graph deep learning
 
