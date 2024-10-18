@@ -23,9 +23,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Spatial data mining
-- Machine learning
-- Graph deep learning
+- Spatio-Temporal Analytics
+- Machine Learning
+- Graph Learning
 
 ---
 
