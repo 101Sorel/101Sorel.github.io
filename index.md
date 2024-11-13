@@ -23,9 +23,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Human Mobility
+- Mobility Analytics
 - Graph Deep Learning
-- Spatial Data Mining
+- Space-time Prediction
 
 ---
 
