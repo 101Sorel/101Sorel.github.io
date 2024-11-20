@@ -11,7 +11,7 @@ title: Publications
 <br>
 - Yuan, M., Yue, P., Yang, C., Li, J., Yan, K., Cai, C., & **Wan, C**. (2024). [Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis.](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2279977) International Journal of Geographical Information Science, 38(2), 243-273.
 <br>
-- Cai, C., Li, J., Huang, J., He, W., **Wan, C**., & Guo, Y. (2024). MapEval: Comprehensive Benchmark Suite for BEV-based Local Online Map Construction Model. 2024 IEEE International Conference on Robotics and Automation (ICRA). (Under review)
+- Cai, C., Li, J., Huang, J., He, W., **Wan, C**., & Guo, Y. (2025). MapEval: Comprehensive Benchmark Suite for BEV-based Local Online Map Construction Model. 2024 IEEE International Conference on Robotics and Automation (ICRA). (Under review)
 
 ---
 
