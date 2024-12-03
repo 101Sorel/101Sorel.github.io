@@ -18,6 +18,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - The code for the paper *Lane Extraction from Trajectories at Road Intersections Based on Graph Transformer Network* is now available at [GTN_lane_extraction](https://github.com/openrsgis/GTN_lane_extraction).
 - On October 27, I delivered an English oral presentation about *Lane extraction with graph deep learning* at the International Graduate Workshop on GeoInformatics and was awarded [second prize](https://101sorel.github.io//images/IGWG.jpg)!
 
+---
 ## Academic Background
 
 - **Sept. 2022 – Jun. 2025(Expected):** Wuhan University (Master of Cartography and Geography Information System, supervised by [Prof. Peng Yue](http://jszy.whu.edu.cn/pyue))
