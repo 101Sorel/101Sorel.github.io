@@ -22,4 +22,4 @@ title: Publications
 - Yue, P.(Advisor), Wan, C., Yuan, M., & Cai, C. (2024), “A Method, System, Device, and Medium for Intersection Detection and Precise Range Determination Based on Trajectory Data”, Invention patent. (Under Initial Examination)
 <br>
 - Yue, P.(Advisor), Cai, C., & Wan, C. (2024), “Method, Device, Equipment, and Medium for Incremental Generation of Road Networks Based on Trajectory Data”, Invention patent. (Under Initial Examination)
-> Update: 15th Sep 2024
+> Update: 3th Dec 2024
