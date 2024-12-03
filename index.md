@@ -13,6 +13,10 @@ I am a final-year graduate student majoring in Cartography and Geographic Inform
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *chongshanwan[at]whu[dot]edu[dot]cn*
 
 ---
+# News
+- On November 29, my first-author paper, *Lane Extraction from Trajectories at Road Intersections Based on Graph Transformer Network*, was published online! [Link](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2433086)
+- The code for the paper *Lane Extraction from Trajectories at Road Intersections Based on Graph Transformer Network* is now available at [GTN_lane_extraction](https://github.com/openrsgis/GTN_lane_extraction).
+- On October 27, I delivered an English oral presentation about *Lane extraction with graph deep learning* at the International Graduate Workshop on GeoInformatics and was awarded [second prize](https://101sorel.github.io//images/IGWG.jpg)!
 
 ## Academic Background
 
