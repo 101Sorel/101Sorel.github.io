@@ -7,7 +7,7 @@ title: Publications
 
 ## Papers
 
-- Wan, C., Yue, P., Yang, C., Cai, C., & Liu, X. (2024). [Lane extraction from trajectories at road intersections based on Graph Transformer Network.](https://doi.org/10.1080/13658816.2024.2433086) International Journal of Geographical Information Science, 1–30.
+- **Wan, C.**, Yue, P., Yang, C., Cai, C., & Liu, X. (2024). [Lane extraction from trajectories at road intersections based on Graph Transformer Network.](https://doi.org/10.1080/13658816.2024.2433086) International Journal of Geographical Information Science, 1–30.
 <br>
 - Yuan, M., Yue, P., Yang, C., Li, J., Yan, K., Cai, C., & **Wan, C**. (2024). [Generating lane-level road networks from high-precision trajectory data with lane-changing behavior analysis.](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2279977) International Journal of Geographical Information Science, 38(2), 243-273.
 <br>
