@@ -29,9 +29,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Research Interests
 
 - Geo-data Analytics
+- Intelligent transportation
 - Mobility Analytics
 - Graph Deep Learning
-- Space-time Prediction
 - GeoAI
 
 ---
